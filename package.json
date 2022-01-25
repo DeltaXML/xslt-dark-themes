@@ -1,7 +1,9 @@
 {
     "name": "xslt-dark-themes",
     "displayName": "XSLT Dark Themes",
+    "publisher": "deltaxml",
     "repository": {
+        "type": "git",
         "url": "https://github.com/DeltaXML/xslt-dark-themes.git"
     },
     "license": "MIT",
@@ -13,6 +15,9 @@
     "categories": [
         "Themes"
     ],
+    "bugs": {
+		"url": "https://github.com/DeltaXML/xslt-dark-themes/issues"
+	},
     "contributes": {
         "themes": [
             {
