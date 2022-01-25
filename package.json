@@ -1,0 +1,40 @@
+{
+    "name": "xslt-dark-themes",
+    "displayName": "XSLT Dark Themes",
+    "repository": {
+        "url": "https://github.com/DeltaXML/xslt-dark-themes.git"
+    },
+    "license": "MIT",
+    "description": "Popular dark color themes enhanced for XSLT semantic tokens",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.63.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "X Nord Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/nordx-color-theme.json"
+            },
+            {
+                "label": "X Tokyo Night Storm",
+                "uiTheme": "vs-dark",
+                "path": "./themes/tokyo-night-stormx.json"
+            },
+            {
+                "label": "X Gruvbox Material Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/gruvbox-x-theme.json"
+            },
+            {
+                "label": "X Darcula from Intellij",
+                "uiTheme": "vs-dark",
+                "path": "./themes/darcula-from-intellij-x.json"
+            }
+        ]
+    }
+}
