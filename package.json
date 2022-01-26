@@ -39,6 +39,11 @@
                 "label": "X Darcula from Intellij",
                 "uiTheme": "vs-dark",
                 "path": "./themes/darcula-from-intellij-x.json"
+            },
+            {
+                "label": "X Iceberg",
+                "uiTheme": "vs-dark",
+                "path": "./themes/iceberg-x-theme.json"
             }
         ]
     }

@@ -7,6 +7,7 @@ These themes can enhance the [XSLT/Path for Visual Studio Code](https://marketpl
 ## Themes
 - X Darcula From IntelliJ
 - X Gruvbox Material Dark
+- X Iceberg
 - X Nord
 - X Tokyo Night Storm
 
@@ -26,6 +27,10 @@ These themes can enhance the [XSLT/Path for Visual Studio Code](https://marketpl
 ---
 ### X Tokyo Night
 <p><img src=images/tokyo-night.png style="width:600px; padding-top:10px">
+
+---
+### X Iceberg
+<p><img src=images/iceberg.png style="width:600px; padding-top:10px">
 
 ---
 
