@@ -10,6 +10,7 @@ These themes can enhance the [XSLT/Path for Visual Studio Code](https://marketpl
 - X Iceberg
 - X Nord
 - X Tokyo Night Storm
+- X Zenburn
 
 ## Examples
 ---
@@ -33,10 +34,16 @@ These themes can enhance the [XSLT/Path for Visual Studio Code](https://marketpl
 <p><img src=images/iceberg.png style="width:600px; padding-top:10px">
 
 ---
+### X Zenburn
+<p><img src=images/zenburn.png style="width:600px; padding-top:10px">
+
+---
 
 ##  Project Goal
 
-Visual Studio Code color themes provide support for a range of languages, there is however no support for token types that are only found in XSLT and XPath. The goal of this extension is to add support for language-specific XSLT and XPath tokens for a range of popular themes.
+The immediate goal of this extension is to add support for language-specific XSLT and XPath semantic tokens for a range of popular themes.
+
+These theme enhancements are provided as a convenient alternative to managing custom user settings.
 
 ## User Customisation
 

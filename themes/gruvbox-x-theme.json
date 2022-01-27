@@ -10,7 +10,8 @@
 		"elementName": "#d3869b",
 		"xmlnsName": "#b75a1e",
 		"attributeName": "#ea6962",
-		"axisName": "#d4be98"
+		"axisName": "#d4be98",
+		"simpleType": "#7daea3"
 	},
 	"colors": {
 		"activityBar.activeBorder": "#928374",
