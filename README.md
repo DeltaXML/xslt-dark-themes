@@ -1,18 +1,20 @@
 # XSLT Dark Themes
 
-Popular dark themes with [Semantic Highlighting](https://code.visualstudio.com/api/language-extensions/semantic-highlight-guide) support extended specifically for the XSLT and XPath languages.
+Popular dark themes with [Semantic Highlighting](https://code.visualstudio.com/api/language-extensions/semantic-highlight-guide) support extended for the XSLT and XPath languages.
 
-These themes can enhance the [XSLT/Path for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=deltaxml.xslt-xpath) and [XPath Notebooks](https://marketplace.visualstudio.com/items?itemName=deltaxml.xpath-notebook) extensions maintained by DeltaXML.
+These themes are designed to enhance XSLT/XPath syntax highlighting when using the [XSLT/Path for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=deltaxml.xslt-xpath) and [XPath Notebooks](https://marketplace.visualstudio.com/items?itemName=deltaxml.xpath-notebook) extensions maintained by [DeltaXML](https://deltaxml.com).
 
 ## Themes
-- X Darcula From IntelliJ
-- X Gruvbox Material Dark
-- X Iceberg
-- X Nord
-- X Tokyo Night Storm
-- X Zenburn
 
-## Examples
+The following themes are included. The 'X' prefix is used to distinguish the XSLT/XPath extended variant. Links are to the VS Code marketplace entries for the original themes.
+- X [Darcula From IntelliJ](https://marketplace.visualstudio.com/items?itemName=trinm1709.dracula-theme-from-intellij)
+- X [Gruvbox Material Dark](https://marketplace.visualstudio.com/items?itemName=sainnhe.gruvbox-material)
+- X [Iceberg](https://marketplace.visualstudio.com/items?itemName=cocopon.iceberg-theme)
+- X [Nord](https://marketplace.visualstudio.com/items?itemName=arcticicestudio.nord-visual-studio-code)
+- X [Tokyo Night Storm](https://marketplace.visualstudio.com/items?itemName=enkia.tokyo-night)
+- X [Zenburn](https://marketplace.visualstudio.com/items?itemName=ryanolsonx.zenburn)
+
+## Screenshots
 ---
 ### X Darcula from IntelliJ
 <p><img src=images/darcula.png style="width:600px; padding-top:10px">
@@ -102,6 +104,15 @@ Property names like `simpleType` correspond to the XSLT/XPath-specific Semantic 
     mapKey
 
 \* *'Standard' semantic tokens - used by other languages*
+
+## Additional Notes
+
+1. Alongside adding support for XSLT/XPath Semantic Tokens, for some themes there may have been slight adjustments. Specifically:
+
+    - Ensure active indent-guide-line has sufficient contrast with non-active lines
+    - For XPath Notebooks, ensure the code cell background color is different to the general background color
+
+2. For some themes it was necessary to adjust colors for semantic tokens that are not specific to XSLT/XPath
 
 
 
