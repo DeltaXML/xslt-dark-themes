@@ -10,7 +10,9 @@
     "axisName": "#a093c7",
     "attributeNameTest": "#a093c7",
     "complexExpression": "#c6c8d1",
-    "function": "#e2a478"  
+    "function": "#e2a478",
+		"anonymousFunction": "#a093c7",
+		"simpleType": "#84a0c6"
   },
 	"colors": {
 		"activityBar.background": "#161821",
