@@ -7,7 +7,7 @@
         "url": "https://github.com/DeltaXML/xslt-dark-themes.git"
     },
     "license": "MIT",
-    "description": "Popular dark color themes enhanced for XSLT semantic tokens",
+    "description": "Popular dark color themes enhanced for XSLT/XPath semantic tokens",
     "version": "0.0.1",
     "engines": {
         "vscode": "^1.63.0"
