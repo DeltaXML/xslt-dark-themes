@@ -17,27 +17,27 @@ The following themes are included. The 'X' prefix is used to distinguish the XSL
 ## Screenshots
 ---
 ### X Darcula from IntelliJ
-<p><img src=images/darcula.png style="width:600px; padding-top:10px">
+<p><img src=https://raw.githubusercontent.com/DeltaXML/xslt-dark-themes/5748bd37f3c545e083763210b7635bcd05852e3d/images/darcula.png style="width:600px; padding-top:10px">
 
 ---
 ### X Gruvbox Material Dark
-<p><img src=images/gruvbox.png style="width:600px; padding-top:10px">
+<p><img src=https://github.com/DeltaXML/xslt-dark-themes/raw/5748bd37f3c545e083763210b7635bcd05852e3d/images/gruvbox.png style="width:600px; padding-top:10px">
 
 ---
 ###  X Nord
-<p><img src=images/nord.png style="width:600px; padding-top:10px">
+<p><img src=https://github.com/DeltaXML/xslt-dark-themes/raw/5748bd37f3c545e083763210b7635bcd05852e3d/images/nord.png style="width:600px; padding-top:10px">
 
 ---
 ### X Tokyo Night
-<p><img src=images/tokyo-night.png style="width:600px; padding-top:10px">
+<p><img src=https://github.com/DeltaXML/xslt-dark-themes/raw/5748bd37f3c545e083763210b7635bcd05852e3d/images/tokyo-night.png style="width:600px; padding-top:10px">
 
 ---
 ### X Iceberg
-<p><img src=images/iceberg.png style="width:600px; padding-top:10px">
+<p><img src=https://github.com/DeltaXML/xslt-dark-themes/raw/5748bd37f3c545e083763210b7635bcd05852e3d/images/iceberg.png style="width:600px; padding-top:10px">
 
 ---
 ### X Zenburn
-<p><img src=images/zenburn.png style="width:600px; padding-top:10px">
+<p><img src=https://github.com/DeltaXML/xslt-dark-themes/raw/5748bd37f3c545e083763210b7635bcd05852e3d/images/zenburn.png style="width:600px; padding-top:10px">
 
 ---
 
