@@ -1,8 +1,8 @@
 # XSLT Dark Themes
 
-Popular dark themes with [Semantic Highlighting](https://code.visualstudio.com/api/language-extensions/semantic-highlight-guide) support extended for the XSLT and XPath languages.
+A set of popular dark color themes extended to enhance support for XSLT/XPath [Semantic Highlighting](https://code.visualstudio.com/api/language-extensions/semantic-highlight-guide).
 
-These themes are designed to enhance XSLT/XPath syntax highlighting when using the [XSLT/Path for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=deltaxml.xslt-xpath) and [XPath Notebooks](https://marketplace.visualstudio.com/items?itemName=deltaxml.xpath-notebook) extensions maintained by [DeltaXML](https://deltaxml.com).
+These themes are for use with the [XSLT/Path for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=deltaxml.xslt-xpath) and [XPath Notebooks](https://marketplace.visualstudio.com/items?itemName=deltaxml.xpath-notebook) extensions maintained by [DeltaXML](https://deltaxml.com).
 
 ## Themes
 
