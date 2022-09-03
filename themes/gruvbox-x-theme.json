@@ -78,6 +78,8 @@
 		"dropdown.border": "#45403d",
 		"dropdown.foreground": "#a89984",
 		"editor.background": "#292828",
+		"editorStickyScroll.background": "#393439",
+		"editorStickyScrollHover.background": "#696169",
 		"editor.findMatchBackground": "#bd6f3e40",
 		"editor.findMatchHighlightBackground": "#8f9a5240",
 		"editor.findRangeHighlightBackground": "#50494558",
