@@ -67,6 +67,8 @@
 		"editor.stackFrameHighlightBackground": "#5e81ac",
 		"editor.wordHighlightBackground": "#81a1c166",
 		"editor.wordHighlightStrongBackground": "#81a1c199",
+		"editorStickyScroll.background": "#434c5e",
+		"editorStickyScrollHover.background": "#51565f",
 		"editorBracketHighlight.foreground1": "#ef616a",
 		"editorBracketHighlight.foreground2": "#e09780",
 		"editorBracketHighlight.foreground3": "#fbdb9b",
