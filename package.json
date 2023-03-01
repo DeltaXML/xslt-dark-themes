@@ -8,7 +8,7 @@
     },
     "license": "MIT",
     "description": "Popular dark color themes enhanced for XSLT/XPath semantic tokens",
-    "version": "0.0.3",
+    "version": "0.0.4",
     "engines": {
         "vscode": "^1.63.0"
     },
@@ -49,6 +49,11 @@
                 "label": "X Zenburn",
                 "uiTheme": "vs-dark",
                 "path": "./themes/zenburn-x-theme.json"
+            },
+            {
+                "label": "X Moegi Dark Vitesse",
+                "uiTheme": "vs-dark",
+                "path": "./themes/moegi-v-x-theme.json"
             }
         ]
     }

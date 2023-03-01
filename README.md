@@ -10,6 +10,7 @@ The following themes are included. The 'X' prefix is used to distinguish the XSL
 - X [Darcula From IntelliJ](https://marketplace.visualstudio.com/items?itemName=trinm1709.dracula-theme-from-intellij)
 - X [Gruvbox Material Dark](https://marketplace.visualstudio.com/items?itemName=sainnhe.gruvbox-material)
 - X [Iceberg](https://marketplace.visualstudio.com/items?itemName=cocopon.iceberg-theme)
+- X [Moegi Dark Vitesse](https://marketplace.visualstudio.com/items?itemName=ddiu8081.moegi-theme)
 - X [Nord](https://marketplace.visualstudio.com/items?itemName=arcticicestudio.nord-visual-studio-code)
 - X [Tokyo Night Storm](https://marketplace.visualstudio.com/items?itemName=enkia.tokyo-night)
 - X [Zenburn](https://marketplace.visualstudio.com/items?itemName=ryanolsonx.zenburn)
