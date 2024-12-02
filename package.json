@@ -8,7 +8,7 @@
     },
     "license": "MIT",
     "description": "Popular dark color themes enhanced for XSLT/XPath semantic tokens",
-    "version": "0.0.4",
+    "version": "0.0.5",
     "engines": {
         "vscode": "^1.63.0"
     },
@@ -34,6 +34,11 @@
                 "label": "X Gruvbox Material Dark",
                 "uiTheme": "vs-dark",
                 "path": "./themes/gruvbox-x-theme.json"
+            },
+            {
+                "label": "X Gruvbox Material Dark - Borders",
+                "uiTheme": "vs-dark",
+                "path": "./themes/gruvbox-x-borders-theme.json"
             },
             {
                 "label": "X Darcula from Intellij",
