@@ -1,14 +1,17 @@
+<img src="deltaxigniaLogoSmall.png">
+
 # XSLT Dark Themes
 
 A set of popular dark color themes extended to enhance support for XSLT/XPath [Semantic Highlighting](https://code.visualstudio.com/api/language-extensions/semantic-highlight-guide).
 
-These themes are for use with the [XSLT/Path for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=deltaxml.xslt-xpath) and [XPath Notebooks](https://marketplace.visualstudio.com/items?itemName=deltaxml.xpath-notebook) extensions maintained by [DeltaXML](https://deltaxml.com).
+These themes are for use with the [XSLT/Path for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=deltaxml.xslt-xpath) and [XPath Notebooks](https://marketplace.visualstudio.com/items?itemName=deltaxml.xpath-notebook) extensions maintained by [DeltaXignia](https://deltaxignia.com).
 
 ## Themes
 
 The following themes are included. The 'X' prefix is used to distinguish the XSLT/XPath extended variant. Links are to the VS Code marketplace entries for the original themes.
 - X [Darcula From IntelliJ](https://marketplace.visualstudio.com/items?itemName=trinm1709.dracula-theme-from-intellij)
 - X [Gruvbox Material Dark](https://marketplace.visualstudio.com/items?itemName=sainnhe.gruvbox-material)
+- X [Gruvbox Material Dark - Borders](https://marketplace.visualstudio.com/items?itemName=sainnhe.gruvbox-material)
 - X [Iceberg](https://marketplace.visualstudio.com/items?itemName=cocopon.iceberg-theme)
 - X [Moegi Dark Vitesse](https://marketplace.visualstudio.com/items?itemName=ddiu8081.moegi-theme)
 - X [Nord](https://marketplace.visualstudio.com/items?itemName=arcticicestudio.nord-visual-studio-code)
