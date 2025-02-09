@@ -9,7 +9,7 @@
     },
     "license": "MIT",
     "description": "Popular dark color themes enhanced for XSLT/XPath semantic tokens",
-    "version": "0.0.6",
+    "version": "1.0.0",
     "engines": {
         "vscode": "^1.63.0"
     },
