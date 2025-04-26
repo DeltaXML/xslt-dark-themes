@@ -60,6 +60,11 @@
                 "label": "X Moegi Dark Vitesse",
                 "uiTheme": "vs-dark",
                 "path": "./themes/moegi-v-x-theme.json"
+            },
+            {
+                "label": "X Oxygen Graphite",
+                "uiTheme": "vs-dark",
+                "path": "./themes/oxygen-x-graphite-theme.json"
             }
         ]
     }
