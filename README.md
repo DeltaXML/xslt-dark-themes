@@ -17,6 +17,7 @@ The following themes are included. The 'X' prefix is used to distinguish the XSL
 - X [Nord](https://marketplace.visualstudio.com/items?itemName=arcticicestudio.nord-visual-studio-code)
 - X [Tokyo Night Storm](https://marketplace.visualstudio.com/items?itemName=enkia.tokyo-night)
 - X [Zenburn](https://marketplace.visualstudio.com/items?itemName=ryanolsonx.zenburn)
+- X [Oxygen Graphite]()
 
 ## Screenshots
 ---
@@ -41,6 +42,10 @@ The following themes are included. The 'X' prefix is used to distinguish the XSL
 
 ---
 ### X Zenburn
+<p><img src=https://github.com/DeltaXML/xslt-dark-themes/raw/5748bd37f3c545e083763210b7635bcd05852e3d/images/zenburn.png style="width:600px; padding-top:10px">
+
+---
+### X Oxygen Graphite
 <p><img src=https://github.com/DeltaXML/xslt-dark-themes/raw/5748bd37f3c545e083763210b7635bcd05852e3d/images/zenburn.png style="width:600px; padding-top:10px">
 
 ---
