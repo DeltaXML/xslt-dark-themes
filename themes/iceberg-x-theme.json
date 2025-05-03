@@ -16,7 +16,8 @@
     "complexExpression": "#c6c8d1",
     "function": "#e2a478",
 		"anonymousFunction": "#a093c7",
-		"simpleType": "#84a0c6"
+		"simpleType": "#a9d8e2",
+		"nodeType": "#89b8c2"
   },
 	"colors": {
 		"activityBar.background": "#161821",
