@@ -4,7 +4,8 @@
 	"semanticHighlighting": true,
 	"semanticTokenColors": {
 		"axisName": "#6897BB",
-		"simpleType": "#6897BB",
+		"simpleType": "#e9aa9d",
+		"nodeType": "#c98a7d",
 		"xmlText": "#b8a965",
 		"attributeNameTest": "#6897BB"
 	},
