@@ -9,17 +9,18 @@
 		"entityRef": "#6A8759",
 		"attributeName": "#a850a4",
 		"attributeNameTest": "#9876aa",
-		"simpleType": "#6897BB",
+		"simpleType": "#6AA759",
 		"variable": "#ff6d6d",
 		"nodeNameTest": "#ffc76dc8",
 		"mapNameLookup": "#ffc76dc8",
 		"elementName": "#ffc76dc8",
-		"attributeEquals": "#ffc76dc8"
+		"attributeEquals": "#ffc76dc8",
+		"nodeType": "#6A8759"
 	},
 	"colors": {
 		"editor.background": "#212122",
 		"editor.foreground": "#d4d4d4",
-		"editor.inactiveSelectionBackground": "#3a3d41",
+		"editor.inactiveSelectionBackground": "#3a3d418a",
 		"editor.lineHighlightBackground": "#2a2a2b",
 		"editor.selectionHighlightBackground": "#add6ff26",
 		"editorIndentGuide.activeBackground": "#ffffff5e",
