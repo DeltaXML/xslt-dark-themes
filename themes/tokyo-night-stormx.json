@@ -6,7 +6,9 @@
 		"axisName": "#9d7cd8",
 		"elementName": "#9d7cd8",
 		"nodeNameTest": "#f7768e",
-		"mapNameLookup": "#f7768e"
+		"mapNameLookup": "#f7768e",
+		"simpleType": "#8ebe5a",
+		"nodeType": "#9ece6a"
 	},
 	"colors": {
 		"activityBar.background": "#1f2335",
