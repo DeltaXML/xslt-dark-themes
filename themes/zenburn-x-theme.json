@@ -12,7 +12,8 @@
 		"mapNameLookup": "#d6d7af",
 		"xmlText": "#f0efd0",
 		"elementName": "#cc9393",
-		"simpleType": "#cc9393",
+		"simpleType": "#ecb3b3",
+		"nodeType": "#cc9393",
 		"anonymousFunction": "#cc9393"	
 	},
 	"colors": {
