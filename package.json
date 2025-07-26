@@ -9,7 +9,7 @@
     },
     "license": "MIT",
     "description": "Popular dark color themes enhanced for XSLT/XPath semantic tokens",
-    "version": "1.2.0",
+    "version": "1.2.1",
     "engines": {
         "vscode": "^1.63.0"
     },
@@ -25,6 +25,11 @@
                 "label": "X Nord Dark",
                 "uiTheme": "vs-dark",
                 "path": "./themes/nordx-color-theme.json"
+            },
+            {
+                "label": "X Nord Darker",
+                "uiTheme": "vs-dark",
+                "path": "./themes/nordx-dk-bg-color-theme.json"
             },
             {
                 "label": "X Tokyo Night Storm",
