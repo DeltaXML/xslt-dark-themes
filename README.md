@@ -33,8 +33,9 @@ The following themes are included. The 'X' prefix is used to distinguish the XSL
 ###  X Nord Dark
 <p><img src=https://github.com/DeltaXML/xslt-dark-themes/raw/5748bd37f3c545e083763210b7635bcd05852e3d/images/nord.png style="width:600px; padding-top:10px">
 
+---
 ###  X Nord Darker
-<p><img src=https://github.com/DeltaXML/xslt-dark-themes/raw/5748bd37f3c545e083763210b7635bcd05852e3d/images/nord-darker.png style="width:600px; padding-top:10px">
+<p><img src=https://github.com/DeltaXML/xslt-dark-themes/blob/master/images/nord-darker.png?raw=true style="width:600px; padding-top:10px">
 
 ---
 ### X Tokyo Night
