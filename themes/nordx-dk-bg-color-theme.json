@@ -286,7 +286,7 @@
 		"terminal.ansiRed": "#bf616a",
 		"terminal.ansiWhite": "#e5e9f0",
 		"terminal.ansiYellow": "#ebcb8b",
-		"terminal.background": "#2e3440",
+		"terminal.background": "#1a1d23",
 		"terminal.foreground": "#d8dee9",
 		"terminal.tab.activeBorder": "#88c0d0",
 		"textBlockQuote.background": "#3b4252",
