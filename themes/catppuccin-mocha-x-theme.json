@@ -89,7 +89,7 @@
             "foreground": "#f38ba8"
         },
         "boolean": {
-            "foreground": "#74c7ec"
+            "foreground": "#f2cdcd"
         },
         "number": {
             "foreground": "#f2cdcd"
