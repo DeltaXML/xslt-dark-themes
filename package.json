@@ -70,6 +70,11 @@
                 "label": "X Oxygen Graphite",
                 "uiTheme": "vs-dark",
                 "path": "./themes/oxygen-x-graphite-theme.json"
+            },
+            {
+                "label": "X Catppuccin Mocha",
+                "uiTheme": "vs-dark",
+                "path": "./themes/catppuccin-mocha-x-theme.json"
             }
         ]
     }
