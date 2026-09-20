@@ -8,7 +8,7 @@ These themes are for use with the [XSLT/Path for Visual Studio Code](https://mar
 
 ## Themes
 
-The following themes are included. The 'X' prefix is used to distinguish the XSLT/XPath extended variant. Links are to the VS Code marketplace entries for the original themes.
+The following themes are included. The 'X' prefix is used to distinguish the XSLT/XPath extended variant. Links are to the resources for the original themes.
 - X [Darcula From IntelliJ](https://marketplace.visualstudio.com/items?itemName=trinm1709.dracula-theme-from-intellij)
 - X [Gruvbox Material Dark](https://marketplace.visualstudio.com/items?itemName=sainnhe.gruvbox-material)
 - X [Gruvbox Material Dark - Borders](https://marketplace.visualstudio.com/items?itemName=sainnhe.gruvbox-material)
@@ -19,6 +19,7 @@ The following themes are included. The 'X' prefix is used to distinguish the XSL
 - X [Tokyo Night Storm](https://marketplace.visualstudio.com/items?itemName=enkia.tokyo-night)
 - X [Zenburn](https://marketplace.visualstudio.com/items?itemName=ryanolsonx.zenburn)
 - X [Oxygen Graphite](https://www.oxygenxml.com/)
+- X [X Catppuccin Mocha](https://github.com/catppuccin/vscode)
 
 ## Screenshots
 ---
@@ -58,7 +59,7 @@ The following themes are included. The 'X' prefix is used to distinguish the XSL
 <p><img src=https://raw.githubusercontent.com/DeltaXML/xslt-dark-themes/master/images/moegi-vitesse.png style="width:600px; padding-top:10px">
 
 ---
-### X catppuccin Mocha
+### X Catppuccin Mocha
 <p><img src=https://raw.githubusercontent.com/DeltaXML/xslt-dark-themes/master/images/catppuccin.png style="width:600px; padding-top:10px">
 
 ---

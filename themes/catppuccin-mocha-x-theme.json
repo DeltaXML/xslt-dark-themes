@@ -89,10 +89,10 @@
             "foreground": "#f38ba8"
         },
         "boolean": {
-            "foreground": "#fab387"
+            "foreground": "#74c7ec"
         },
         "number": {
-            "foreground": "#fab387"
+            "foreground": "#f2cdcd"
         },
         "variable.defaultLibrary": {
             "foreground": "#eba0ac"
