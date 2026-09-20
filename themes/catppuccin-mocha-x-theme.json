@@ -376,7 +376,7 @@
         "editorInlayHint.typeBackground": "#181825bf",
         "editorInlayHint.parameterForeground": "#a6adc8",
         "editorInlayHint.parameterBackground": "#181825bf",
-        "editorLineNumber.activeForeground": "#cba6f7",
+        "editorLineNumber.activeForeground": "#fab387",
         "editorLineNumber.foreground": "#7f849c",
         "editorLink.activeForeground": "#cba6f7",
         "editorMarkerNavigation.background": "#181825",

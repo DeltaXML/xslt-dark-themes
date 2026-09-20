@@ -54,8 +54,12 @@ The following themes are included. The 'X' prefix is used to distinguish the XSL
 <p><img src=https://raw.githubusercontent.com/DeltaXML/xslt-dark-themes/master/images/oxygen.png style="width:600px; padding-top:10px">
 
 ---
-### X Moegi Dark Vitess
+### X Moegi Dark Vitesse
 <p><img src=https://raw.githubusercontent.com/DeltaXML/xslt-dark-themes/master/images/moegi-vitesse.png style="width:600px; padding-top:10px">
+
+---
+### X catppuccin Mocha
+<p><img src=https://raw.githubusercontent.com/DeltaXML/xslt-dark-themes/master/images/catppuccin.png style="width:600px; padding-top:10px">
 
 ---
 
