@@ -16,6 +16,7 @@ The following themes are included. The 'X' prefix is used to distinguish the XSL
 - X [Moegi Dark Vitesse](https://marketplace.visualstudio.com/items?itemName=ddiu8081.moegi-theme)
 - X [Nord Dark](https://marketplace.visualstudio.com/items?itemName=arcticicestudio.nord-visual-studio-code)
 - X [Nord Darker](https://marketplace.visualstudio.com/items?itemName=arcticicestudio.nord-visual-studio-code)
+- X Nord Light (light variant of X Nord Darker)
 - X [Tokyo Night Storm](https://marketplace.visualstudio.com/items?itemName=enkia.tokyo-night)
 - X [Zenburn](https://marketplace.visualstudio.com/items?itemName=ryanolsonx.zenburn)
 - X [Oxygen Graphite](https://www.oxygenxml.com/)

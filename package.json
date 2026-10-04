@@ -32,6 +32,11 @@
                 "path": "./themes/nordx-dk-bg-color-theme.json"
             },
             {
+                "label": "X Nord Light",
+                "uiTheme": "vs",
+                "path": "./themes/nordx-light-color-theme.json"
+            },
+            {
                 "label": "X Tokyo Night Storm",
                 "uiTheme": "vs-dark",
                 "path": "./themes/tokyo-night-stormx.json"
