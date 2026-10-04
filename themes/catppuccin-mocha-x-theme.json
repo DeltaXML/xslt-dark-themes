@@ -24,6 +24,10 @@
         "attributeName": {
             "foreground": "#74c7ec"
         },
+        "xdocTag": {
+            "foreground": "#F2CDCD",
+             "fontStyle": "italic"
+        },
         "attributeEquals": {
             "foreground": "#7f849c"
         },
