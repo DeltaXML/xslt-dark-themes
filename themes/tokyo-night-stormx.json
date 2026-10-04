@@ -8,7 +8,8 @@
 		"nodeNameTest": "#f7768e",
 		"mapNameLookup": "#f7768e",
 		"simpleType": "#8ebe5a",
-		"nodeType": "#9ece6a"
+		"nodeType": "#9ece6a",
+		"xdocText": "#8086a2"
 	},
 	"colors": {
 		"activityBar.background": "#1f2335",
