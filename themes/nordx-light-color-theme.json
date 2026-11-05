@@ -62,7 +62,7 @@
 		"editor.foreground": "#41454e",
 		"editor.hoverHighlightBackground": "#dfe8fd",
 		"editor.inactiveSelectionBackground": "#d7e3f8cc",
-		"editor.inlineValuesBackground": "#adb9d0",
+		"editor.inlineValuesBackground": "#adb9d066",
 		"editor.inlineValuesForeground": "#3a3c40",
 		"editor.lineHighlightBackground": "#ffffff",
 		"editor.lineHighlightBorder": "#e4e9f2",
