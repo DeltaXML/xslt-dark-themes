@@ -291,7 +291,7 @@
         "debugIcon.stepIntoForeground": "#cdd6f4",
         "debugIcon.stepOutForeground": "#cdd6f4",
         "debugIcon.continueForeground": "#a6e3a1",
-        "debugIcon.stepBackForeground": "#585b70",
+        "debugIcon.stepBackForeground": "#5262dc",
         "debugConsole.infoForeground": "#89b4fa",
         "debugConsole.warningForeground": "#fab387",
         "debugConsole.errorForeground": "#f38ba8",
